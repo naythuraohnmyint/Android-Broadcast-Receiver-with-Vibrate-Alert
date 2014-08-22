@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
 	                Log.d(TAG, "Headset is plugged");
 	                Toast.makeText(getApplicationContext(), "Headset is plugged", Toast.LENGTH_SHORT).show();
 	                Vibrator vibrator = (Vibrator) context.getSystemService(Context.VIBRATOR_SERVICE);
-	                vibrator.vibrate(2000);
+	                vibrator.vibrate(1000);
 	                break;
 	            default:
 	            	 Toast.makeText(getApplicationContext(), "I have no idea what the headset state is", Toast.LENGTH_SHORT).show();
