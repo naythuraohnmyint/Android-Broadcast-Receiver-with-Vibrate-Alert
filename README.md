@@ -1,4 +1,3 @@
-Broadcast Receiver with Vibrate Alert (android)
+Broadcast Receiver with Vibrate Alert
 ==========
-this is my first repository testing
 Testing in May 19 2014
